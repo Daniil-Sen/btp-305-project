@@ -1,0 +1,20 @@
+// Name: Daniil Sen
+// Seneca Student ID: 160970190
+// Seneca email: dsen5@myseneca.ca
+// Date of completion: 11/10/2021
+
+Hello professor, this milestone is late because I have a lot of other classes to work on plus my
+obligations outside of school. However this milestone is still late and I accept that.
+
+Comment 1:
+Ther are many different ways of writing code to complete a task. In milestone 2 I wrote a fillItem
+function that passed milestone 2 requirements. But when I attempted to use it in milestone 3, it
+would not output correctly (specifically when filling out orders, in iteration 6 where where an order
+is outputted twice, but my version only handled it once). I have noticed in previous workshops or courses
+where a function in a previous part passed the tests, but didnt pass other parts. It was giving my some
+trouble. In this project, keeping track of the variables and the changes from stl algorithms are more
+difficult and I think thats why I had issues solving that problem.
+
+Comment 2:
+I have noticed that the attemptToMoveOrder() function in Workstation class returns a bool. But I do not 
+know why it neccessary.
